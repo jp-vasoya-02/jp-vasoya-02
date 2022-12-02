@@ -1,4 +1,4 @@
-Hiii, I am Jaydip Vasoya <br/>
+Hiii, I am Jay Vasoya <br/>
 Love to Software industry
 Working on javascript and python.
 
