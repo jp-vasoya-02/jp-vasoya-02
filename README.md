@@ -1,6 +1,6 @@
-Hiii, I am Jay Vasoya <br/>
-Love to Software industry
-Working on javascript and python.
+## 👨‍💻 Maintained By
+**Jaydip Vasoya**  
+Full-Stack Developer | Python, Django, React & AWS
 
 <!---
 jp-vasoya-02/jp-vasoya-02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
